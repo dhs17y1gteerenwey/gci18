@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title> <!-- ur title here -->
+</head>
+<body>
+    <h1></h1> <!-- ur chatbot title here too -->
+    <p></p> <!-- ur chatbot description here -->
+    <pre><script type='text/javascript' id='susi-bot-script' data-userid='af8cce728c6b74fc7d48ab25a16b5f96' data-group='Business and Finance' data-language='en' data-skill='nicebot' src='https://skills.susi.ai/susi-chatbot.js'></script></pre> <!-- ur chatbot code here -->
+   <!-- ur script here -->
+    
+</body>
+</html>
